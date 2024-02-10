@@ -18,7 +18,7 @@ def main():
         warnings.warn("already running!")
         return
 
-    if !os.path.exists(folder_path):
+    if !(os.path.exists(folder_path)):
         os.mkdir(folder_path)
     
     with open(json_path, "w") as file:
