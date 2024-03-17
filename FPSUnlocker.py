@@ -11,14 +11,14 @@ roblox_path = r"C:\"
 
 # do not edit past this line
 folder_path = roblox_path + "\ClientSettings"
-json_path = target_path + "\ClientAppSettings.json"
+json_path = folder_path + "\ClientAppSettings.json"
 
 def main():
     if os.path.exists(json_path):
         warnings.warn("already running!")
         return
 
-    if !(os.path.exists(folder_path)):
+    if (os.path.exists(folder_path)) == False:
         os.mkdir(folder_path)
     
     with open(json_path, "w") as file:
