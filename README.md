@@ -1,10 +1,10 @@
-# Roblox fps unlocker
+# Roblox FPS unlocker
 Simple python script that lets you change your maximum FPS in Roblox.
 
 # Requirements
 - [Python 3.11](https://www.python.org/downloads/release/python-3117/) (I wrote it in 3.11, it might work with older versions.)
-- basic python knowledge
-- roblox (duh)
+- Basic file editing skills
+- Roblox (duh)
 
 # Setup
 - Step 1: Open the "config.json" file in the root directory with your IDE (or notepad)
