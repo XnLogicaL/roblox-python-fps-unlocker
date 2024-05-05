@@ -9,6 +9,6 @@ Simple script that lets you change your maximum FPS in Roblox.
 # setup
 - Step 1: Open the "config.json" file in the root directory with your IDE (or notepad)
 - Step 2: Change the `"roblox-path": "C:/Users/"` to a valid path
-- Step 2.5: Optionally, change the `"target-fps": "144"` line to any integer you want (DO NOT FORGET THE DOUBLE QUOTES!!!!)
+  - Step 2.5: Optionally, change the `"target-fps": "144"` line to any integer you want (DO NOT FORGET THE DOUBLE QUOTES!!!!)
 - Step 3: Hit CTRL + S to save
 - Step 4: Run Roblox
