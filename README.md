@@ -2,7 +2,7 @@
 Simple python script that lets you change your maximum FPS in Roblox.
 
 # Requirements
-- [Python 3.11](https://www.python.org/downloads/release/python-3117/) (I wrote it in 3.11, it might work with older versions.)
+- [Python 3.11](https://www.python.org/downloads/release/python-3117/) (written in 3.11, might work with older versions)
 - Basic file editing skills
 - Roblox (duh)
 
